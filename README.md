@@ -94,8 +94,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-# NlWs
+# Meus projetos das NlWs
 
-[Booster](https://github.com/MatheusRFilho/Nlw-Booster)
-[Discovery](https://github.com/MatheusRFilho/Nlw-2.0---Discovery)
-[Booster](https://github.com/MatheusRFilho/NLW-2.0---Omnistack)
+- [Booster](https://github.com/MatheusRFilho/Nlw-Booster)
+- [Discovery](https://github.com/MatheusRFilho/Nlw-2.0---Discovery)
+- [Booster](https://github.com/MatheusRFilho/NLW-2.0---Omnistack)
